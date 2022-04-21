@@ -1,2 +1,2 @@
 # Profit-Oriented-Transportation
-A Simple C program for profit oriented transportation using Prims &amp; Floydwarshall algorithm
+The aim of the project is to find the minimum distance between source to destination and also to all other places using floyd's and prim's algorithm using C language.
